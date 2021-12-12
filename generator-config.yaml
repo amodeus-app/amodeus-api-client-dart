@@ -1,0 +1,5 @@
+pubLibrary: amodeus_api
+pubName: amodeus_api
+pubDescription: Alternative MODEUS API client
+pubHomepage: https://amodeus.evgfilim1.me/
+pubVersion: 0.1.0-alpha.2
